@@ -1,0 +1,583 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://sunfeastwowzers.com/home/assam.html",
+          "urlHash": "038e6994116aee41705031e9e890779b151f6601",
+          "uuid": "038e6994-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign.html",
+          "urlHash": "1060815098861e1284e74d73fa6bdc442f3a0034",
+          "uuid": "10608150-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-ane.html",
+          "urlHash": "3a902e0aaca23f0b45bd7c0c346dbef7b1bec197",
+          "uuid": "3a902e0a-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/terms-of-use.html",
+          "urlHash": "686441f95fe3cd47100e5d1b5bc88d2e988c2d8d",
+          "uuid": "686441f9-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/ne.html",
+          "urlHash": "7480afba17bb53c670f6c40ecf4ac1e305d0ba99",
+          "uuid": "7480afba-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-tn.html",
+          "urlHash": "8074e25226063aa36d012164fb38b4a99e06101a",
+          "uuid": "8074e252-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home.html",
+          "urlHash": "bd9679834f474de9b9f2eaa193e9a9ac241d6a98",
+          "uuid": "bd967983-00-c1ceae65c0f00fe0f1e24d0cc17259f975bb0657",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/leaderboard.html",
+          "urlHash": "c4939cfda4cfb7b001030a130a891e33a51be4eb",
+          "uuid": "c4939cfd-00-a1bb473f96402c9bde3c93a0dd9078d621b1e0ed",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-wb.html",
+          "urlHash": "d0edf91b2dda2606dfa7a4a4a5c0e928f41aea54",
+          "uuid": "d0edf91b-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-karnataka.html",
+          "urlHash": "d7e178e51b18d8719a1bc28f279c50d8afa3e936",
+          "uuid": "d7e178e5-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-kerala.html",
+          "urlHash": "e7c41e43b3fdfa8cff0768cd4b6700872f58656f",
+          "uuid": "e7c41e43-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ],
+      "styles": {
+        "height": 176,
+        "background": "rgb(38, 16, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://sunfeastwowzers.com/home/assam.html",
+          "urlHash": "038e6994116aee41705031e9e890779b151f6601",
+          "uuid": "038e6994-03-51740ceaac0099b2039bb9cec212b7f523b22cb6",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign.html",
+          "urlHash": "1060815098861e1284e74d73fa6bdc442f3a0034",
+          "uuid": "10608150-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-ane.html",
+          "urlHash": "3a902e0aaca23f0b45bd7c0c346dbef7b1bec197",
+          "uuid": "3a902e0a-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/terms-of-use.html",
+          "urlHash": "686441f95fe3cd47100e5d1b5bc88d2e988c2d8d",
+          "uuid": "686441f9-03-460e99b418ded283d6f137a05568020125203d4c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/ne.html",
+          "urlHash": "7480afba17bb53c670f6c40ecf4ac1e305d0ba99",
+          "uuid": "7480afba-04-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-tn.html",
+          "urlHash": "8074e25226063aa36d012164fb38b4a99e06101a",
+          "uuid": "8074e252-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home.html",
+          "urlHash": "bd9679834f474de9b9f2eaa193e9a9ac241d6a98",
+          "uuid": "bd967983-02-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/leaderboard.html",
+          "urlHash": "c4939cfda4cfb7b001030a130a891e33a51be4eb",
+          "uuid": "c4939cfd-01-1c477c61aea1635e39ffd4ee85098d8f18268581",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-wb.html",
+          "urlHash": "d0edf91b2dda2606dfa7a4a4a5c0e928f41aea54",
+          "uuid": "d0edf91b-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-karnataka.html",
+          "urlHash": "d7e178e51b18d8719a1bc28f279c50d8afa3e936",
+          "uuid": "d7e178e5-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-kerala.html",
+          "urlHash": "e7c41e43b3fdfa8cff0768cd4b6700872f58656f",
+          "uuid": "e7c41e43-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(38, 16, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "header",
+      "cluster": 1,
+      "source": "Header",
+      "target": "Header (header1)",
+      "key": "header1",
+      "instances": [
+        {
+          "url": "https://sunfeastwowzers.com/home.html",
+          "urlHash": "bd9679834f474de9b9f2eaa193e9a9ac241d6a98",
+          "uuid": "bd967983-00-c1ceae65c0f00fe0f1e24d0cc17259f975bb0657",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 2,
+      "source": "Cards",
+      "target": "Cards (cards2)",
+      "key": "cards2",
+      "instances": [
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-ane.html",
+          "urlHash": "3a902e0aaca23f0b45bd7c0c346dbef7b1bec197",
+          "uuid": "3a902e0a-03-33a91435e7c7aec8a1700dca0554c63ae8eb517a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-wb.html",
+          "urlHash": "d0edf91b2dda2606dfa7a4a4a5c0e928f41aea54",
+          "uuid": "d0edf91b-03-33a91435e7c7aec8a1700dca0554c63ae8eb517a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 3,
+      "source": "Cards",
+      "target": "Cards (cards3)",
+      "key": "cards3",
+      "instances": [
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-kerala.html",
+          "urlHash": "e7c41e43b3fdfa8cff0768cd4b6700872f58656f",
+          "uuid": "e7c41e43-03-33a91435e7c7aec8a1700dca0554c63ae8eb517a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 4,
+      "source": "Cards",
+      "target": "Cards (cards4)",
+      "key": "cards4",
+      "instances": [
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign.html",
+          "urlHash": "1060815098861e1284e74d73fa6bdc442f3a0034",
+          "uuid": "10608150-03-33a91435e7c7aec8a1700dca0554c63ae8eb517a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-tn.html",
+          "urlHash": "8074e25226063aa36d012164fb38b4a99e06101a",
+          "uuid": "8074e252-03-33a91435e7c7aec8a1700dca0554c63ae8eb517a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-karnataka.html",
+          "urlHash": "d7e178e51b18d8719a1bc28f279c50d8afa3e936",
+          "uuid": "d7e178e5-03-33a91435e7c7aec8a1700dca0554c63ae8eb517a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 5,
+      "source": "Header",
+      "target": "Header (header5)",
+      "key": "header5",
+      "instances": [
+        {
+          "url": "https://sunfeastwowzers.com/home/leaderboard.html",
+          "urlHash": "c4939cfda4cfb7b001030a130a891e33a51be4eb",
+          "uuid": "c4939cfd-00-a1bb473f96402c9bde3c93a0dd9078d621b1e0ed",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 6,
+      "source": "Header",
+      "target": "Header (header6)",
+      "key": "header6",
+      "instances": [
+        {
+          "url": "https://sunfeastwowzers.com/home/terms-of-use.html",
+          "urlHash": "686441f95fe3cd47100e5d1b5bc88d2e988c2d8d",
+          "uuid": "686441f9-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://sunfeastwowzers.com/home/assam.html",
+      "urlHash": "038e6994116aee41705031e9e890779b151f6601",
+      "uuid": "038e6994-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/assam.html",
+      "urlHash": "038e6994116aee41705031e9e890779b151f6601",
+      "uuid": "038e6994-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/assam.html",
+      "urlHash": "038e6994116aee41705031e9e890779b151f6601",
+      "uuid": "038e6994-02-0ea8e3aea49f8b197cdd9e6fbe694b7bfc510b29",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/assam.html",
+      "urlHash": "038e6994116aee41705031e9e890779b151f6601",
+      "uuid": "038e6994-03-51740ceaac0099b2039bb9cec212b7f523b22cb6",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign.html",
+      "urlHash": "1060815098861e1284e74d73fa6bdc442f3a0034",
+      "uuid": "10608150-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign.html",
+      "urlHash": "1060815098861e1284e74d73fa6bdc442f3a0034",
+      "uuid": "10608150-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign.html",
+      "urlHash": "1060815098861e1284e74d73fa6bdc442f3a0034",
+      "uuid": "10608150-02-73dc518b161c2bf029b6be568d79fe3eacb177e2",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign.html",
+      "urlHash": "1060815098861e1284e74d73fa6bdc442f3a0034",
+      "uuid": "10608150-04-b9b46a70948209e1bbd9b34a22be35eec7653bdf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign.html",
+      "urlHash": "1060815098861e1284e74d73fa6bdc442f3a0034",
+      "uuid": "10608150-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-ane.html",
+      "urlHash": "3a902e0aaca23f0b45bd7c0c346dbef7b1bec197",
+      "uuid": "3a902e0a-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-ane.html",
+      "urlHash": "3a902e0aaca23f0b45bd7c0c346dbef7b1bec197",
+      "uuid": "3a902e0a-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-ane.html",
+      "urlHash": "3a902e0aaca23f0b45bd7c0c346dbef7b1bec197",
+      "uuid": "3a902e0a-02-73dc518b161c2bf029b6be568d79fe3eacb177e2",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-ane.html",
+      "urlHash": "3a902e0aaca23f0b45bd7c0c346dbef7b1bec197",
+      "uuid": "3a902e0a-04-b9b46a70948209e1bbd9b34a22be35eec7653bdf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-ane.html",
+      "urlHash": "3a902e0aaca23f0b45bd7c0c346dbef7b1bec197",
+      "uuid": "3a902e0a-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/terms-of-use.html",
+      "urlHash": "686441f95fe3cd47100e5d1b5bc88d2e988c2d8d",
+      "uuid": "686441f9-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/terms-of-use.html",
+      "urlHash": "686441f95fe3cd47100e5d1b5bc88d2e988c2d8d",
+      "uuid": "686441f9-02-d5eedff947ca10d7ac5b25e0bf86cbd815249073",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/terms-of-use.html",
+      "urlHash": "686441f95fe3cd47100e5d1b5bc88d2e988c2d8d",
+      "uuid": "686441f9-03-460e99b418ded283d6f137a05568020125203d4c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/ne.html",
+      "urlHash": "7480afba17bb53c670f6c40ecf4ac1e305d0ba99",
+      "uuid": "7480afba-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/ne.html",
+      "urlHash": "7480afba17bb53c670f6c40ecf4ac1e305d0ba99",
+      "uuid": "7480afba-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/ne.html",
+      "urlHash": "7480afba17bb53c670f6c40ecf4ac1e305d0ba99",
+      "uuid": "7480afba-02-d5eedff947ca10d7ac5b25e0bf86cbd815249073",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/ne.html",
+      "urlHash": "7480afba17bb53c670f6c40ecf4ac1e305d0ba99",
+      "uuid": "7480afba-03-b9b46a70948209e1bbd9b34a22be35eec7653bdf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/ne.html",
+      "urlHash": "7480afba17bb53c670f6c40ecf4ac1e305d0ba99",
+      "uuid": "7480afba-04-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-tn.html",
+      "urlHash": "8074e25226063aa36d012164fb38b4a99e06101a",
+      "uuid": "8074e252-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-tn.html",
+      "urlHash": "8074e25226063aa36d012164fb38b4a99e06101a",
+      "uuid": "8074e252-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-tn.html",
+      "urlHash": "8074e25226063aa36d012164fb38b4a99e06101a",
+      "uuid": "8074e252-02-73dc518b161c2bf029b6be568d79fe3eacb177e2",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-tn.html",
+      "urlHash": "8074e25226063aa36d012164fb38b4a99e06101a",
+      "uuid": "8074e252-04-b9b46a70948209e1bbd9b34a22be35eec7653bdf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-tn.html",
+      "urlHash": "8074e25226063aa36d012164fb38b4a99e06101a",
+      "uuid": "8074e252-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home.html",
+      "urlHash": "bd9679834f474de9b9f2eaa193e9a9ac241d6a98",
+      "uuid": "bd967983-01-03253585c145f140246e9a492bd20b8ac8053af4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home.html",
+      "urlHash": "bd9679834f474de9b9f2eaa193e9a9ac241d6a98",
+      "uuid": "bd967983-02-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/leaderboard.html",
+      "urlHash": "c4939cfda4cfb7b001030a130a891e33a51be4eb",
+      "uuid": "c4939cfd-01-1c477c61aea1635e39ffd4ee85098d8f18268581",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-wb.html",
+      "urlHash": "d0edf91b2dda2606dfa7a4a4a5c0e928f41aea54",
+      "uuid": "d0edf91b-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-wb.html",
+      "urlHash": "d0edf91b2dda2606dfa7a4a4a5c0e928f41aea54",
+      "uuid": "d0edf91b-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-wb.html",
+      "urlHash": "d0edf91b2dda2606dfa7a4a4a5c0e928f41aea54",
+      "uuid": "d0edf91b-02-73dc518b161c2bf029b6be568d79fe3eacb177e2",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-wb.html",
+      "urlHash": "d0edf91b2dda2606dfa7a4a4a5c0e928f41aea54",
+      "uuid": "d0edf91b-04-b9b46a70948209e1bbd9b34a22be35eec7653bdf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-wb.html",
+      "urlHash": "d0edf91b2dda2606dfa7a4a4a5c0e928f41aea54",
+      "uuid": "d0edf91b-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-karnataka.html",
+      "urlHash": "d7e178e51b18d8719a1bc28f279c50d8afa3e936",
+      "uuid": "d7e178e5-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-karnataka.html",
+      "urlHash": "d7e178e51b18d8719a1bc28f279c50d8afa3e936",
+      "uuid": "d7e178e5-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-karnataka.html",
+      "urlHash": "d7e178e51b18d8719a1bc28f279c50d8afa3e936",
+      "uuid": "d7e178e5-02-73dc518b161c2bf029b6be568d79fe3eacb177e2",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-karnataka.html",
+      "urlHash": "d7e178e51b18d8719a1bc28f279c50d8afa3e936",
+      "uuid": "d7e178e5-04-b9b46a70948209e1bbd9b34a22be35eec7653bdf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-karnataka.html",
+      "urlHash": "d7e178e51b18d8719a1bc28f279c50d8afa3e936",
+      "uuid": "d7e178e5-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-kerala.html",
+      "urlHash": "e7c41e43b3fdfa8cff0768cd4b6700872f58656f",
+      "uuid": "e7c41e43-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-kerala.html",
+      "urlHash": "e7c41e43b3fdfa8cff0768cd4b6700872f58656f",
+      "uuid": "e7c41e43-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-kerala.html",
+      "urlHash": "e7c41e43b3fdfa8cff0768cd4b6700872f58656f",
+      "uuid": "e7c41e43-02-73dc518b161c2bf029b6be568d79fe3eacb177e2",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-kerala.html",
+      "urlHash": "e7c41e43b3fdfa8cff0768cd4b6700872f58656f",
+      "uuid": "e7c41e43-04-b9b46a70948209e1bbd9b34a22be35eec7653bdf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-kerala.html",
+      "urlHash": "e7c41e43b3fdfa8cff0768cd4b6700872f58656f",
+      "uuid": "e7c41e43-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]",
+      "section": "section-1"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgb(38, 16, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 20
+    },
+    {
+      "name": "section-2",
+      "background": "rgb(170, 31, 46) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 6
+    },
+    {
+      "name": "section-3",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(240, 153, 41), rgb(247, 198, 78)) repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    }
+  ]
+}
