@@ -1,3 +1,4 @@
+/* stylelint-disable no-descending-specificity */
 .cards > ul {
   list-style: none;
   margin: 0;
@@ -32,7 +33,6 @@
   padding: 48px 0;
 }
 
-/* Center and constrain card wrapper */
 .cards.cards2 .cards-wrapper {
   max-width: 700px;
   margin: 0 auto;
@@ -40,7 +40,6 @@
   background: none;
 }
 
-/* Card block styling */
 .cards.cards2 .block.cards {
   background: none;
   max-width: 540px;
@@ -48,7 +47,6 @@
   padding: 0;
 }
 
-/* Card itself, horizontal layout */
 .cards.cards2 .block.cards ul {
   list-style: none;
   margin: 0;
@@ -71,7 +69,6 @@
   position: relative;
 }
 
-/* Image styling */
 .cards.cards2 .cards-card-image {
   width: 112px;
   height: 112px;
@@ -93,7 +90,6 @@
   display: block;
 }
 
-/* Content side */
 .cards.cards2 .cards-card-body {
   flex: 1;
   display: flex;
@@ -103,7 +99,6 @@
   padding: 4px 0;
 }
 
-/* Title and MRP */
 .cards.cards2 .cards-card-body h2 {
   color: #222;
   font-size: 20px;
@@ -119,12 +114,10 @@
   margin: 0 0 10px;
 }
 
-/* Remove excess spacing on last p */
 .cards.cards2 .cards-card-body p:last-of-type {
   margin-bottom: 0;
 }
 
-/* --- Purchase Options Layout --- */
 .cards.cards2 .cards-card-body .purchase-row {
   display: flex;
   flex-direction: row;
@@ -133,7 +126,6 @@
   margin: 16px 0 0;
 }
 
-/* Group purchase options (logo, price, name) as a block */
 .cards.cards2 .cards-card-body p.purchase-box {
   background: #fff;
   border: 1px solid #ccc;
@@ -199,7 +191,6 @@
   white-space: normal;
 }
 
-/* Responsive: stack card vertically on narrow screens */
 @media (width <= 700px) {
   .cards.cards2 .block.cards li {
     flex-direction: column;
@@ -229,5 +220,227 @@
   .cards.cards2 .cards-card-body p.purchase-box {
     max-width: 100%;
     width: 100%;
+  }
+}
+
+
+.cards.cards3 {
+  background: #FFF5D7;
+  padding: 48px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.cards.cards3 ul {
+  max-width: 560px;
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+}
+
+.cards.cards3 li {
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 4px 16px 0 rgb(0 0 0 / 6%);
+  margin: 32px auto;
+  padding: 32px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 32px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Left column: image */
+.cards.cards3 .cards-card-image {
+  background: #222;
+  border-radius: 12px;
+  width: 120px;
+  height: 160px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  margin: 0;
+}
+
+.cards.cards3 .cards-card-image img,
+.cards.cards3 .cards-card-image picture {
+  max-width: 96px;
+  max-height: 130px;
+  display: block;
+  border-radius: 8px;
+  object-fit: contain;
+}
+
+/* Right column: content */
+.cards.cards3 .cards-card-body {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 0;
+  min-width: 0;
+  padding: 0;
+  justify-content: center;
+}
+
+.cards.cards3 .cards-card-body h2 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #222;
+  margin: 0 0 6px;
+  line-height: 1.2;
+}
+
+.cards.cards3 .cards-card-body p {
+  color: #8d8d8d;
+  font-size: 14px;
+  margin: 0 0 18px;
+  line-height: 1.4;
+}
+
+/* Price/brand pairs row */
+.cards.cards3 .cards-card-body .price-brand-row,
+.cards.cards3 .cards-card-body .button-container-row {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+}
+
+.cards.cards3 .cards-card-body .button-container {
+  background: #fafafa;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  min-width: 86px;
+  min-height: 56px;
+  padding: 10px 12px 8px;
+  box-sizing: border-box;
+  margin: 0 12px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  margin-right: 12px;
+}
+
+/* If no .price-brand-row wrapper, put first four .button-container in a row */
+
+.cards.cards3 .cards-card-body .button-container:last-child {
+  margin-right: 0;
+}
+
+/* Remove top margin on first price row if needed */
+.cards.cards3 .cards-card-body .button-container-row,
+.cards.cards3 .cards-card-body .price-brand-row {
+  margin-top: 0;
+}
+
+/* Price (button) and brand (label) inside .button-container */
+.cards.cards3 .cards-card-body .button,
+.cards.cards3 .cards-card-body a.button {
+  display: flex;
+  align-items: center;
+  background: none;
+  border: none;
+  box-shadow: none;
+  padding: 0;
+  margin: 0 0 2px;
+  color: #222;
+  font-size: 15px;
+  font-weight: 700;
+  border-radius: 0;
+  text-align: left;
+  line-height: 1.2;
+  min-width: 0;
+  min-height: 0;
+}
+
+.cards.cards3 .cards-card-body .button:last-child {
+  font-size: 12px;
+  color: #8d8d8d;
+  font-weight: 400;
+  text-transform: lowercase;
+  margin: 0;
+  margin-top: 2px;
+}
+
+/* Small icon left of price, if present */
+.cards.cards3 .cards-card-body .button img,
+.cards.cards3 .cards-card-body .button picture {
+  height: 18px;
+  width: 18px;
+  margin-right: 6px;
+  vertical-align: middle;
+  display: inline-block;
+  border-radius: 3px;
+  background: none;
+}
+
+/* Remove default button style if inherited */
+.cards.cards3 .cards-card-body a.button,
+.cards.cards3 .cards-card-body .button {
+  background: none;
+  color: #222;
+  border: none;
+  box-shadow: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Remove bottom margin for last p */
+.cards.cards3 .cards-card-body p:last-child {
+  margin-bottom: 0;
+}
+
+/* Responsive: vertical stack on small screens */
+@media (width <= 700px) {
+  .cards.cards3 ul {
+    max-width: 100%;
+  }
+
+  .cards.cards3 li {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 16px;
+    padding: 20px 12px;
+    min-width: 0;
+  }
+
+  .cards.cards3 .cards-card-image {
+    width: 100%;
+    max-width: 200px;
+    height: 120px;
+    margin: 0 auto 6px;
+  }
+
+  .cards.cards3 .cards-card-body {
+    padding: 0;
+  }
+
+  .cards.cards3 .cards-card-body .price-brand-row,
+  .cards.cards3 .cards-card-body .button-container-row {
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+  }
+
+  .cards.cards3 .cards-card-body .button-container {
+    width: 100%;
+    min-width: 0;
+    margin-right: 0;
+  }
+}
+
+/* Utility: If no explicit row wrapper, put .button-container siblings in a row on desktop, column on mobile */
+.cards.cards3 .cards-card-body .button-container + .button-container {
+  margin-left: 12px;
+}
+
+@media (width <= 700px) {
+  .cards.cards3 .cards-card-body .button-container + .button-container {
+    margin-left: 0;
+    margin-top: 10px;
   }
 }
