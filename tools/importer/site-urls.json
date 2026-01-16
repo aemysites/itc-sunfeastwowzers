@@ -1,0 +1,138 @@
+{
+  "originUrl": "https://sunfeastwowzers.com",
+  "aborted": false,
+  "lastCrawled": "https://sunfeastwowzers.com/",
+  "urls": [
+    {
+      "url": "https://sunfeastwowzers.com/home.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home",
+      "id": "bd9679834f474de9b9f2eaa193e9a9ac241d6a98"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/assam.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home/assam",
+      "id": "038e6994116aee41705031e9e890779b151f6601"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-ane.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home/campaign-ane",
+      "id": "3a902e0aaca23f0b45bd7c0c346dbef7b1bec197"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-karnataka.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home/campaign-karnataka",
+      "id": "d7e178e51b18d8719a1bc28f279c50d8afa3e936"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-kerala.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home/campaign-kerala",
+      "id": "e7c41e43b3fdfa8cff0768cd4b6700872f58656f"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-tn.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home/campaign-tn",
+      "id": "8074e25226063aa36d012164fb38b4a99e06101a"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-wb.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home/campaign-wb",
+      "id": "d0edf91b2dda2606dfa7a4a4a5c0e928f41aea54"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home/campaign",
+      "id": "1060815098861e1284e74d73fa6bdc442f3a0034"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/leaderboard.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home/leaderboard",
+      "id": "c4939cfda4cfb7b001030a130a891e33a51be4eb"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/ne.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home/ne",
+      "id": "7480afba17bb53c670f6c40ecf4ac1e305d0ba99"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/terms-of-use.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home/terms-of-use",
+      "id": "686441f95fe3cd47100e5d1b5bc88d2e988c2d8d"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://sunfeastwowzers.com/content/sunfeast-wowzers/in/en/home.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastwowzers.com/home.html"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/content/sunfeast-wowzers/in/en/home/assam.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastwowzers.com/home/assam.html"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/content/sunfeast-wowzers/in/en/home/campaign-ane.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastwowzers.com/home/campaign-ane.html"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/content/sunfeast-wowzers/in/en/home/campaign-karnataka.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastwowzers.com/home/campaign-karnataka.html"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/content/sunfeast-wowzers/in/en/home/campaign-kerala.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastwowzers.com/home/campaign-kerala.html"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/content/sunfeast-wowzers/in/en/home/campaign-tn.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastwowzers.com/home/campaign-tn.html"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/content/sunfeast-wowzers/in/en/home/campaign-wb.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastwowzers.com/home/campaign-wb.html"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/content/sunfeast-wowzers/in/en/home/campaign.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastwowzers.com/home/campaign.html"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/content/sunfeast-wowzers/in/en/home/leaderboard.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastwowzers.com/home/leaderboard.html"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/content/sunfeast-wowzers/in/en/home/ne.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastwowzers.com/home/ne.html"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/content/sunfeast-wowzers/in/en/home/terms-of-use.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastwowzers.com/home/terms-of-use.html"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/content/sunfeast-wowzers/in/en/",
+      "status": "404 Not Found"
+    }
+  ],
+  "errorCountMessage": "{\"E_301\":11,\"E_404\":1}",
+  "error": null
+}
