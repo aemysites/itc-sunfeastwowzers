@@ -1,0 +1,622 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://sunfeastwowzers.com/home/assam.html",
+          "urlHash": "038e6994116aee41705031e9e890779b151f6601",
+          "uuid": "038e6994-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign.html",
+          "urlHash": "1060815098861e1284e74d73fa6bdc442f3a0034",
+          "uuid": "10608150-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-ane.html",
+          "urlHash": "3a902e0aaca23f0b45bd7c0c346dbef7b1bec197",
+          "uuid": "3a902e0a-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/terms-of-use.html",
+          "urlHash": "686441f95fe3cd47100e5d1b5bc88d2e988c2d8d",
+          "uuid": "686441f9-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/ne.html",
+          "urlHash": "7480afba17bb53c670f6c40ecf4ac1e305d0ba99",
+          "uuid": "7480afba-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-tn.html",
+          "urlHash": "8074e25226063aa36d012164fb38b4a99e06101a",
+          "uuid": "8074e252-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home.html",
+          "urlHash": "bd9679834f474de9b9f2eaa193e9a9ac241d6a98",
+          "uuid": "bd967983-00-c1ceae65c0f00fe0f1e24d0cc17259f975bb0657",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/leaderboard.html",
+          "urlHash": "c4939cfda4cfb7b001030a130a891e33a51be4eb",
+          "uuid": "c4939cfd-00-a1bb473f96402c9bde3c93a0dd9078d621b1e0ed",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-wb.html",
+          "urlHash": "d0edf91b2dda2606dfa7a4a4a5c0e928f41aea54",
+          "uuid": "d0edf91b-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-karnataka.html",
+          "urlHash": "d7e178e51b18d8719a1bc28f279c50d8afa3e936",
+          "uuid": "d7e178e5-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-kerala.html",
+          "urlHash": "e7c41e43b3fdfa8cff0768cd4b6700872f58656f",
+          "uuid": "e7c41e43-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ],
+      "styles": {
+        "height": 176,
+        "background": "rgb(38, 16, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://sunfeastwowzers.com/home/assam.html",
+          "urlHash": "038e6994116aee41705031e9e890779b151f6601",
+          "uuid": "038e6994-03-51740ceaac0099b2039bb9cec212b7f523b22cb6",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign.html",
+          "urlHash": "1060815098861e1284e74d73fa6bdc442f3a0034",
+          "uuid": "10608150-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-ane.html",
+          "urlHash": "3a902e0aaca23f0b45bd7c0c346dbef7b1bec197",
+          "uuid": "3a902e0a-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/terms-of-use.html",
+          "urlHash": "686441f95fe3cd47100e5d1b5bc88d2e988c2d8d",
+          "uuid": "686441f9-03-460e99b418ded283d6f137a05568020125203d4c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/ne.html",
+          "urlHash": "7480afba17bb53c670f6c40ecf4ac1e305d0ba99",
+          "uuid": "7480afba-04-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-tn.html",
+          "urlHash": "8074e25226063aa36d012164fb38b4a99e06101a",
+          "uuid": "8074e252-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home.html",
+          "urlHash": "bd9679834f474de9b9f2eaa193e9a9ac241d6a98",
+          "uuid": "bd967983-02-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/leaderboard.html",
+          "urlHash": "c4939cfda4cfb7b001030a130a891e33a51be4eb",
+          "uuid": "c4939cfd-01-1c477c61aea1635e39ffd4ee85098d8f18268581",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-wb.html",
+          "urlHash": "d0edf91b2dda2606dfa7a4a4a5c0e928f41aea54",
+          "uuid": "d0edf91b-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-karnataka.html",
+          "urlHash": "d7e178e51b18d8719a1bc28f279c50d8afa3e936",
+          "uuid": "d7e178e5-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-kerala.html",
+          "urlHash": "e7c41e43b3fdfa8cff0768cd4b6700872f58656f",
+          "uuid": "e7c41e43-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(38, 16, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "header",
+      "cluster": 1,
+      "source": "Header",
+      "target": "Header (header1)",
+      "key": "header1",
+      "instances": [
+        {
+          "url": "https://sunfeastwowzers.com/home.html",
+          "urlHash": "bd9679834f474de9b9f2eaa193e9a9ac241d6a98",
+          "uuid": "bd967983-00-c1ceae65c0f00fe0f1e24d0cc17259f975bb0657",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 2,
+      "source": "Cards",
+      "target": "Cards (cards2)",
+      "key": "cards2",
+      "instances": [
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-ane.html",
+          "urlHash": "3a902e0aaca23f0b45bd7c0c346dbef7b1bec197",
+          "uuid": "3a902e0a-03-33a91435e7c7aec8a1700dca0554c63ae8eb517a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-wb.html",
+          "urlHash": "d0edf91b2dda2606dfa7a4a4a5c0e928f41aea54",
+          "uuid": "d0edf91b-03-33a91435e7c7aec8a1700dca0554c63ae8eb517a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 3,
+      "source": "Cards",
+      "target": "Cards (cards3)",
+      "key": "cards3",
+      "instances": [
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-kerala.html",
+          "urlHash": "e7c41e43b3fdfa8cff0768cd4b6700872f58656f",
+          "uuid": "e7c41e43-03-33a91435e7c7aec8a1700dca0554c63ae8eb517a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 4,
+      "source": "Cards",
+      "target": "Cards (cards4)",
+      "key": "cards4",
+      "instances": [
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign.html",
+          "urlHash": "1060815098861e1284e74d73fa6bdc442f3a0034",
+          "uuid": "10608150-03-33a91435e7c7aec8a1700dca0554c63ae8eb517a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-tn.html",
+          "urlHash": "8074e25226063aa36d012164fb38b4a99e06101a",
+          "uuid": "8074e252-03-33a91435e7c7aec8a1700dca0554c63ae8eb517a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]"
+        },
+        {
+          "url": "https://sunfeastwowzers.com/home/campaign-karnataka.html",
+          "urlHash": "d7e178e51b18d8719a1bc28f279c50d8afa3e936",
+          "uuid": "d7e178e5-03-33a91435e7c7aec8a1700dca0554c63ae8eb517a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 5,
+      "source": "Header",
+      "target": "Header (header5)",
+      "key": "header5",
+      "instances": [
+        {
+          "url": "https://sunfeastwowzers.com/home/leaderboard.html",
+          "urlHash": "c4939cfda4cfb7b001030a130a891e33a51be4eb",
+          "uuid": "c4939cfd-00-a1bb473f96402c9bde3c93a0dd9078d621b1e0ed",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 6,
+      "source": "Header",
+      "target": "Header (header6)",
+      "key": "header6",
+      "instances": [
+        {
+          "url": "https://sunfeastwowzers.com/home/terms-of-use.html",
+          "urlHash": "686441f95fe3cd47100e5d1b5bc88d2e988c2d8d",
+          "uuid": "686441f9-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://sunfeastwowzers.com/home/assam.html",
+      "urlHash": "038e6994116aee41705031e9e890779b151f6601",
+      "uuid": "038e6994-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/assam.html",
+      "urlHash": "038e6994116aee41705031e9e890779b151f6601",
+      "uuid": "038e6994-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/assam.html",
+      "urlHash": "038e6994116aee41705031e9e890779b151f6601",
+      "uuid": "038e6994-02-0ea8e3aea49f8b197cdd9e6fbe694b7bfc510b29",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/assam.html",
+      "urlHash": "038e6994116aee41705031e9e890779b151f6601",
+      "uuid": "038e6994-03-51740ceaac0099b2039bb9cec212b7f523b22cb6",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign.html",
+      "urlHash": "1060815098861e1284e74d73fa6bdc442f3a0034",
+      "uuid": "10608150-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign.html",
+      "urlHash": "1060815098861e1284e74d73fa6bdc442f3a0034",
+      "uuid": "10608150-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign.html",
+      "urlHash": "1060815098861e1284e74d73fa6bdc442f3a0034",
+      "uuid": "10608150-02-73dc518b161c2bf029b6be568d79fe3eacb177e2",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign.html",
+      "urlHash": "1060815098861e1284e74d73fa6bdc442f3a0034",
+      "uuid": "10608150-04-b9b46a70948209e1bbd9b34a22be35eec7653bdf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign.html",
+      "urlHash": "1060815098861e1284e74d73fa6bdc442f3a0034",
+      "uuid": "10608150-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-ane.html",
+      "urlHash": "3a902e0aaca23f0b45bd7c0c346dbef7b1bec197",
+      "uuid": "3a902e0a-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-ane.html",
+      "urlHash": "3a902e0aaca23f0b45bd7c0c346dbef7b1bec197",
+      "uuid": "3a902e0a-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-ane.html",
+      "urlHash": "3a902e0aaca23f0b45bd7c0c346dbef7b1bec197",
+      "uuid": "3a902e0a-02-73dc518b161c2bf029b6be568d79fe3eacb177e2",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-ane.html",
+      "urlHash": "3a902e0aaca23f0b45bd7c0c346dbef7b1bec197",
+      "uuid": "3a902e0a-04-b9b46a70948209e1bbd9b34a22be35eec7653bdf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-ane.html",
+      "urlHash": "3a902e0aaca23f0b45bd7c0c346dbef7b1bec197",
+      "uuid": "3a902e0a-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/terms-of-use.html",
+      "urlHash": "686441f95fe3cd47100e5d1b5bc88d2e988c2d8d",
+      "uuid": "686441f9-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/terms-of-use.html",
+      "urlHash": "686441f95fe3cd47100e5d1b5bc88d2e988c2d8d",
+      "uuid": "686441f9-02-d5eedff947ca10d7ac5b25e0bf86cbd815249073",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/terms-of-use.html",
+      "urlHash": "686441f95fe3cd47100e5d1b5bc88d2e988c2d8d",
+      "uuid": "686441f9-03-460e99b418ded283d6f137a05568020125203d4c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/ne.html",
+      "urlHash": "7480afba17bb53c670f6c40ecf4ac1e305d0ba99",
+      "uuid": "7480afba-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/ne.html",
+      "urlHash": "7480afba17bb53c670f6c40ecf4ac1e305d0ba99",
+      "uuid": "7480afba-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/ne.html",
+      "urlHash": "7480afba17bb53c670f6c40ecf4ac1e305d0ba99",
+      "uuid": "7480afba-02-d5eedff947ca10d7ac5b25e0bf86cbd815249073",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/ne.html",
+      "urlHash": "7480afba17bb53c670f6c40ecf4ac1e305d0ba99",
+      "uuid": "7480afba-03-b9b46a70948209e1bbd9b34a22be35eec7653bdf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/ne.html",
+      "urlHash": "7480afba17bb53c670f6c40ecf4ac1e305d0ba99",
+      "uuid": "7480afba-04-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-tn.html",
+      "urlHash": "8074e25226063aa36d012164fb38b4a99e06101a",
+      "uuid": "8074e252-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-tn.html",
+      "urlHash": "8074e25226063aa36d012164fb38b4a99e06101a",
+      "uuid": "8074e252-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-tn.html",
+      "urlHash": "8074e25226063aa36d012164fb38b4a99e06101a",
+      "uuid": "8074e252-02-73dc518b161c2bf029b6be568d79fe3eacb177e2",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-tn.html",
+      "urlHash": "8074e25226063aa36d012164fb38b4a99e06101a",
+      "uuid": "8074e252-04-b9b46a70948209e1bbd9b34a22be35eec7653bdf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-tn.html",
+      "urlHash": "8074e25226063aa36d012164fb38b4a99e06101a",
+      "uuid": "8074e252-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home.html",
+      "urlHash": "bd9679834f474de9b9f2eaa193e9a9ac241d6a98",
+      "uuid": "bd967983-01-03253585c145f140246e9a492bd20b8ac8053af4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home.html",
+      "urlHash": "bd9679834f474de9b9f2eaa193e9a9ac241d6a98",
+      "uuid": "bd967983-02-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/leaderboard.html",
+      "urlHash": "c4939cfda4cfb7b001030a130a891e33a51be4eb",
+      "uuid": "c4939cfd-01-1c477c61aea1635e39ffd4ee85098d8f18268581",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-wb.html",
+      "urlHash": "d0edf91b2dda2606dfa7a4a4a5c0e928f41aea54",
+      "uuid": "d0edf91b-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-wb.html",
+      "urlHash": "d0edf91b2dda2606dfa7a4a4a5c0e928f41aea54",
+      "uuid": "d0edf91b-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-wb.html",
+      "urlHash": "d0edf91b2dda2606dfa7a4a4a5c0e928f41aea54",
+      "uuid": "d0edf91b-02-73dc518b161c2bf029b6be568d79fe3eacb177e2",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-wb.html",
+      "urlHash": "d0edf91b2dda2606dfa7a4a4a5c0e928f41aea54",
+      "uuid": "d0edf91b-04-b9b46a70948209e1bbd9b34a22be35eec7653bdf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-wb.html",
+      "urlHash": "d0edf91b2dda2606dfa7a4a4a5c0e928f41aea54",
+      "uuid": "d0edf91b-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-karnataka.html",
+      "urlHash": "d7e178e51b18d8719a1bc28f279c50d8afa3e936",
+      "uuid": "d7e178e5-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-karnataka.html",
+      "urlHash": "d7e178e51b18d8719a1bc28f279c50d8afa3e936",
+      "uuid": "d7e178e5-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-karnataka.html",
+      "urlHash": "d7e178e51b18d8719a1bc28f279c50d8afa3e936",
+      "uuid": "d7e178e5-02-73dc518b161c2bf029b6be568d79fe3eacb177e2",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-karnataka.html",
+      "urlHash": "d7e178e51b18d8719a1bc28f279c50d8afa3e936",
+      "uuid": "d7e178e5-04-b9b46a70948209e1bbd9b34a22be35eec7653bdf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-karnataka.html",
+      "urlHash": "d7e178e51b18d8719a1bc28f279c50d8afa3e936",
+      "uuid": "d7e178e5-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-kerala.html",
+      "urlHash": "e7c41e43b3fdfa8cff0768cd4b6700872f58656f",
+      "uuid": "e7c41e43-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-kerala.html",
+      "urlHash": "e7c41e43b3fdfa8cff0768cd4b6700872f58656f",
+      "uuid": "e7c41e43-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-kerala.html",
+      "urlHash": "e7c41e43b3fdfa8cff0768cd4b6700872f58656f",
+      "uuid": "e7c41e43-02-73dc518b161c2bf029b6be568d79fe3eacb177e2",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-kerala.html",
+      "urlHash": "e7c41e43b3fdfa8cff0768cd4b6700872f58656f",
+      "uuid": "e7c41e43-04-b9b46a70948209e1bbd9b34a22be35eec7653bdf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-kerala.html",
+      "urlHash": "e7c41e43b3fdfa8cff0768cd4b6700872f58656f",
+      "uuid": "e7c41e43-05-6a5f1d8c585b39c254b81c006617af2cc29b809a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]",
+      "section": "section-1"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://sunfeastwowzers.com/home.html",
+      "differences": [],
+      "similarity_score": 0.0
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/assam.html",
+      "differences": [],
+      "similarity_score": 0.0
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/campaign-ane.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "Amazing Offers Available. BUY NOW! Sunfeast Cheese Wowzers Crackers MRP: \u20b9 60 \u20b960 blinkit \u20b960 zepto"
+        },
+        {
+          "change_type": "deletion",
+          "text": " NOTICE You are now leaving this website. Continue Back"
+        }
+      ],
+      "similarity_score": 0.7609515385180944
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/leaderboard.html",
+      "differences": [
+        {
+          "change_type": "deletion",
+          "text": "Leaderboard Rank Name 1 Gaurav Mishra 2 Udit 3 Varun Chetal 4 Swathi 5 Deepti 6 Srija 7 Priya Kanchan 8 Rohit Sathawane 9 Rohan 10 Akhil Singh We\u2019re waiting for you to play and feature on here! Terms and conditions Privacy Policy"
+        }
+      ],
+      "similarity_score": 0.0
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/ne.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "Available at your nearest store. BUY NOW!"
+        }
+      ],
+      "similarity_score": 1.0000000000000004
+    },
+    {
+      "url": "https://sunfeastwowzers.com/home/terms-of-use.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "TERMS and CONDITIONS The \u201cDemolish the Wowzers Tower\u201d is a limited period contest (\u201cthe Contest\u201d) launched by ITC limited (hereinafter referred to as \u201cITC\u201d or \u201cCompany\u201d) Persons participating or seeking to participate in the Contest shall individually be referred to as \"Participant\" and collectively as \"Participants\". Please read the terms and conditions (T&Cs) before participating in the contest. Participation in this Contest is purely voluntary. By participating in this Contest, each Participant is deemed to have accepted the complete terms and conditions of this Contest available on www.sunfeastwowzers.com/game (\u201cContest Website\u201d) as well as the decisions of ITC, which are final and binding in all matters related to the Contest. Successfully entering the Contest and winning a prize is subject to the requirements set forth herein. For the purpose of these T&Cs, wherever the context so requires, \u201cYou\u201d or \u201cYour\u201d shall mean any natural person who is participant in the contest and \u201cWe\u201d or \u201cOur\u201d shall mean ITC. 1 . Eligibility: (i) This Contest is open to all citizens of India currently residing in India. Participants below the age of 18 can participate only with the consent of their parent(s)/legal guardian. (ii) In addition to the other eligibility criteria contained herein, the Participants (or their legal guardian if they are below the age of 18) should have a government approved photo ID proof, namely, passport, voter card, or driver\u2019s license that is valid during the Contest Period, a copy of which will have to be submitted at the request of ITC, without which the Participants will be disqualified from the Contest. (iii) The following persons are not eligible to participate in the Contest: employees, contractors, directors and officers of ITC, and their subsidiaries and affiliated companies, affiliates, advisors, distributors, Web design, advertising, fulfilment, judging and promotion vendors, involved in the administration, development, fulfilment and execution of this Contest(collectively, \u201cPromotion Parties\u201d) and their immediate family members (spouses, domestic partners, parents, grandparents, siblings, children and grandchildren). (iv) This Contest is open to all the states of India. 2. Contest period: The Contest shall be held from 14 th April 2025 to 31 st May 2025 or any other date as decided by ITC (hereinafter referred to as \u201c Contest Period \u201d). 3. How to Participate: To participate in the Contest, a Participant should follow the following steps: (i) The Participants can directly visit the Contest Website www.sunfeastwowzers.com/game and then follow all the steps of participation provided in the microsite. (ii) The link to the Contest will also be posted on the official social media pages of Sunfeast Wowzers in Instagram @sunfeastwowzers and Facebook \u2018Sunfeast Wowzers\u2019. (iii) Upon clicking the link, the Participants will be redirected to the official WhatsApp chat bot. Over the WhatsApp chatbot, the Participants will be required to accept these terms and conditions and go through the game rules. Once the terms & conditions are accepted, the Participants will be redirected to the Contest Website. (iv) Participants coming to the microsite directly will have to submit their name, phone number and accept receiving of WhatsApp messages in order to proceed further. (v) The Participant will then have to play the game and stand a chance to win a prize. The game comprises a Wowzers tower. The Participants have to tap the Wowzers tower and demolish the entire tower within the fixed time period in order to complete the game and stand a chance to win a prize. (vi) A participant who demolishes the entire tower, will have their name listed on the leaderboard in the Contest Website. This leaderboard will be updated once every week with the winners for the week. (vii) The participation will be considered valid only if the a) Participant has completed the game by demolishing the tower. b) agrees to the listed terms and conditions. (viii) Participants can have multiple attempts to complete the game throughout the Contest Period. Once the Participant completes the game, they will not be eligible for any further attempts to complete the game. Only one (1) prize per number/person will be permitted. (ix) The name entered by the Participants to enter in to the game cannot be sexually explicit or suggestive, violent or derogatory of any ethnic, racial, gender, religious, professional or age group, profane or pornographic in any manner. Failure to abide by this rule will result in disqualification from the Contest. (x) ITC shall not be responsible for any technical errors. 4 . The Prize (i) For the purpose of the Contest: a) \u201cPrize\u201d shall mean one (1) Amazon gift voucher worth Rs. 100 . b) \u201cWinners\u201d shall mean the Participants who have won the Prize. (ii) Should the Winner be found, in ITC\u2019s sole discretion: not to be eligible to win; not to have complied with these Rules; their conduct can be reasonably interpreted as scamming; acted fraudulently with regards to the Contest; and if it would be unlawful to award the prize, he/she will automatically be disqualified and/or the prize will be forfeited. Winners may also be required to sign acceptance of prizes and indemnity documents. (iii) A Participant, potential prize winner and/or prize winner may, at ITC\u2019s sole discretion, be disqualified from the Contest and/or forfeit his/her prize if: (i) such person\u2019s participation in the Contest and/or the awarding of a prize to such participant would, as solely determined by ITC, be harmful to the goodwill and/or reputation of any of ITC; or (ii) such person engages in any unsafe, illegal, unsociable or inappropriate behavior. (iv) ITC may require each Winner to complete and submit an information disclosure agreement to enable ITC to ensure compliance with these Rules. (v) The prize is not transferable, and no substitution or cash redemption of prize is permitted. A prize will not be handed/awarded to a third party, but only to the verified Winner. (vi) ITC reserves the right, at their sole discretion, to substitute the prize with any other prizes of comparable or greater commercial value for whatever reason. (vii) Prize visuals on any contest and/or promotional materials are for illustrative purposes only 5 . Winner Selection (i) The Participants who completes the game and destroys the tower within the fixed time period will stand a chance to win the Prize. Approximately 10 Participants will be selected at the end of each week based on the leaderboard rankings provided on the Contest Website. This will be depending the number of winners on the website. (ii) This Winner announcement will take place at the end of each week on the leaderboard in the Contest Website. The date of winner announcement is subject to change at the discretion of ITC. The details of Winner will also be declared on official Social Media Pages @sunfeastwowzers on Instagram and Facebook. (iii) At the time that a potential prize winner is identified, the potential prize winner will be contacted by a representative of ITC at which point he/she may be required to answer a few questions regarding his/her eligibility as well as be requested to submit certain documents and a copy of his/her ID and/valid passport or permit and/or driver\u2019s license to ITC\u2019s representative. (iv) The potential prize winner is not an actual winner until his/her participation is validated and his/her documents are completed and submitted to ITC. If a potential prize winner does not meet the eligibility requirements, the prize will be forfeited and a runner up finalist will be deemed the potential prize winner subject to the terms and conditions herein. (v) If ITC are unable to reach any of the potential prize winners after 3 (three) attempts made within 3 (three) working days of their name being drawn, for whatsoever reason, including incorrect telephone numbers or inoperative telephone numbers or delayed responses to social media Private Messages, such winner will be disqualified and a runner up finalist will be deemed the potential prize winner subject to the terms and conditions herein. (vi) Eligible winners will be contacted, electronically by a representative of ITC based on the information they will have shared via the telephone call. (vii) The Winner shall be responsible to comply with the registration process, related formalities and production of any /all such documents/information as may be required by ITC authorities in connection with the Prize. (viii) The decision of ITC will be final and binding with regard to any dispute arising out of this activity. (ix) ITC reserves the sole and absolute right to terminate, modify or extend this Contest, at its absolute discretion without notice and without any liability, without assigning any reason whatsoever. 6 . Other Terms & Conditions: (i) By sharing their personal information with ITC, the Participants consent to collection, storing, processing and use of personal information i.e., (Name, Mobile number) by ITC, its affiliates, associates, agents, contractors and other third parties. (ii) Personal information given by the Participants shall be used to deliver Prizes and for promotional activities by ITC, its affiliates, associates, agents, contractors. (iii) The Participants also have an option to withdraw their consent in relation to usage of personal information during the Contest Period. In such cases, the entry of the Participant shall not be considered, and Participant shall not be eligible for the Prizes. The Participants may reach out to itccares@itc.in or such withdrawals. (iv) By consenting to the Terms and Conditions of this Contest, the Participants acknowledge and consent to transfer and/or disclosure of their personal information by ITC to any third-party. (v) By availing the Prize and/or taking part in the Contest, all Participants agree that ITC shall be at liberty to use the Participant\u2019s photo as well as the Participant\u2019s name and/or photo and/or video as that may appear in any advertisements/promotions/media coverage or publicity in any form which exists today or will be known anytime in the future, without any consideration to the Participant and/or the Winners. No fees or other sums are to be paid to the Participants or Winners on account of taking part in the aforementioned advertisements / promotions. (vi) ITC shall not be liable for any loss due to delay or destruction or damage of or inability to provide the Prizes due to Act of God, Governmental actions, riots, loss/damage/delay due to courier services and other force majeure circumstances and shall not be liable to pay any amount as compensation, or damages, for any such loss, delay or damage. (vii) All right, title and interest, including but not limited to the intellectual property rights, in the Contest and the promotional material(s), all data collected as a result of this Contest and in any and all responses received shall vest solely and exclusively with ITC at all times. ITC or any person or entity permitted by ITC in this regard shall be entitled to use the responses received or any information in connection with the entry in any media for future promotional, marketing, publicity and any other purpose, without any permission and or payment to the Participant. (viii) All material submitted in connection with the Contest (whether written, audio, electronic or visual form, or a combination of those) or any photographs, video and/or film footage and/or audio recording taken of Participants are assigned to ITC upon submission and become the property of ITC exclusively. ITC may use the material in any medium in any manner it sees fit. Copyright in any such material remains the sole property of ITC. (ix) ITC, its officers, directors, employees, agents, successors, or assigns are not liable and do not have obligation with respect to (i) notifications, communications, or materials sent by a Participant that are lost, late, misdirected, garbled, inaccurate, incomplete, illegible, unintelligible, damaged or otherwise not received by ITC, in whole or in part, due to computer, post office or technical error of any kind, (ii) telephone, electronic, hardware, software, network, Internet or computer malfunctions, failures or difficulties, (iii) power-related or weather-related events of any kind, and/or to any event not under ITC direct control, (iv) entries or other communications from customers that contain inaccurate information or do not comply with these rules, (v) errors, omissions, interruptions, deletions, defects, delays in operation or transmissions, theft, destruction, unauthorized access or alterations by Participants or third parties, (vi) if the Participant has registered himself to the DND of the telecom provider/ the Participant has registered with National Do Not Call Registry/ Participant has specifically requested for not receiving messages for the specific Contest (vii) any damages or losses of any kind resulting from acceptance, possession, or use of any Prize. ITC, in their sole discretion, reserves the right to disqualify any person tampering with the entry process or the operation of the Contest or otherwise violating these rules. ITC further reserves the right to cancel, terminate or modify this Contest if this Contest cannot be completed as planned because of infection by computer virus, bugs, tampering, unauthorized intervention or technical failures of any sort. (x) No liability or responsibility is assumed by ITC resulting from the Participant's participation in or attempt to participate in the Contest or ability or inability to upload or download any information in connection with the Contest. No responsibility or liability is assumed by ITC for technical problems or technical malfunction arising in connection with any of the following occurrences which may affect the operation of the Contest: Hardware or software errors; faulty computer, telephone, cable, satellite, network, electronic, or Internet connectivity or other online or network communication problems; errors or limitations of any Internet providers, servers, hosts or other providers; garbled, jumbled or faulty data transmissions; failure of any online transmissions to be sent or received; lost, late, delayed or intercepted transmissions; inaccessibility of the Web Site in whole or in part for any reason; traffic congestion on the Internet or Web Site; unauthorized human or non-human intervention of the operation of the Contest, including without limitation, unauthorized tampering, hacking, theft, virus, bugs, or worms; or destruction of any aspect of the Contest, or loss, miscount, misdirection, inaccessibility or unavailability of an email account used in connection with the Contest. ITC is not responsible for any typographical errors in the announcement of prizes or these Terms and Conditions, or any inaccurate or incorrect data contained on the website. ITC is not responsible for any personal injury or property damage or losses of any kind which may be sustained to participant\u2019s or any other person's computer equipment resulting from participation in the Contest. All Entries become the sole property of ITC, and will not be acknowledged or returned. (xi) ITC shall under no circumstances be liable, whether jointly or severally, for any loss or damage suffered or sustained (including but not limited to consequential loss), including for personal injury or property damage suffered or sustained or any costs incurred, as a result of acceptance of any Prize or use of images shared by the Participants in any advertising or promotional materials. (xii) Any incidental charges, including statutory levies, are to be borne by the Participant. (xiii) ITC is not responsible for any issues arising from the misuse of the WhatsApp chatbot or any unauthorized third-party access. (xiv) This Contest is offered only in India and all disputes relating to this Contest shall be subject to the exclusive jurisdiction of courts at Bengaluru only. (xv) By participating in the Contest, Participants release ITC from any and all claims, damages or liabilities arising from or relating to their participation in the Contest. By accepting the Prize, the Winner (a) agrees that ITC, and all of their respective officers, directors, employees, representatives and agents, will have no liability whatsoever for, and shall be held harmless by Winner against, any liability for injuries, losses or damages of any kind to persons or property resulting in whole or in part, directly or indirectly, from participation in the Contest; from acceptance, possession, misuse or use of Prize and (b) grants (and agrees to confirm grant in writing promptly upon request) to ITC and those acting under ITC\u2019s authority the right to the use of his/her name, photograph, likeness, voice, image, statements and biographical information, at any time or times, for advertising, trade, publicity and promotional purposes in any media now known or hereafter discovered, worldwide, including the Internet without review, notification or approval, and additional compensation, unless prohibited by law. This Contest is in no way sponsored, endorsed or administered by, or associated with Instagram or Facebook. Participants are voluntarily providing their information to ITC. Each Participant is deemed to have released Instagram and Facebook from any claims and liabilities that may specifically arise in relation to their participation in this Contest by accepting these terms and conditions."
+        }
+      ],
+      "similarity_score": 1.0000000000000009
+    }
+  ]
+}
